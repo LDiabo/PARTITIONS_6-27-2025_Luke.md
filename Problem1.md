@@ -8,10 +8,10 @@
 6. In the first step you will choose VHDX because of the optimal space it gives you (keep in mind this only works for versions of Windows 8 and up)<br/>![Format](https://github.com/user-attachments/assets/be2ce7eb-1051-40f5-abc4-f7de86587ea8)
 7. Next step you will choose dynamic and expanding<br/>![type of disk](https://github.com/user-attachments/assets/a2f54db0-aa87-4b2d-8a6e-daffa14f3633)
 8. Now you will choose a name for the Hard Drive and location on where it is saved, we will Call it Pc1Hd2 and save it to our Pc1 Vm Folder<br/>![Hd Name](https://github.com/user-attachments/assets/18de80f2-0ba7-43a5-91c3-4a8196ebc12d)
-9. In this last step, we will choose the option to create a new virtual hard disk and choose the size of it, here we will just stick with 35GB to match our initial Hard Drive
+9. In this last step, we will choose the option to create a new virtual hard disk and choose the size of it, here we will just stick with 35GB to match our initial Hard Drive<br/>![HD Size](https://github.com/user-attachments/assets/ce0260d1-be99-4e8e-85f1-75991a607dd7)
 10. Click on finish and the apply and your new Hard Drive is ready to use on your Virtual Machine.
 11. Repeat Steps 1 through 10 to add a 3rd Hard Drive to your Virtual Machine
-12. Boot up you Virtual Machine and go to Disk Management to see if your hard drive shows up
-13. When you open Disk Management it will prompt you to intialize your disks, CLick Ok
-14. Now your two new Virtual Hard Drives are ready to use and be Partitioned for your Virual Machine.   
+12. Boot up your Virtual Machine and go to Disk Management to see if your hard drives show up
+13. When you open Disk Management it will prompt you to intialize your disks, CLick Ok.<br/>![Initialize disk](https://github.com/user-attachments/assets/fa61001e-4766-41b2-85e8-400ef085ecab)
+14. Now your two new Virtual Hard Drives are ready to use and be Partitioned for your Virual Machine.<br/>![New HDs Disk Management](https://github.com/user-attachments/assets/5f0546c8-ac47-4737-a6d1-1a49ed6c90b7)
 
